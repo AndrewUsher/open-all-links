@@ -1,0 +1,12 @@
+{
+  "name": "open-all-links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndrewUsher/open-all-links.git",
+  "author": "Andrew Usher <andrew.usher@autozone.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@drewster/eslint-config": "3.0.0",
+    "eslint": "7.15.0"
+  }
+}
